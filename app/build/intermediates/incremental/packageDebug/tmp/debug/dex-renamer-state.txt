@@ -1,0 +1,4 @@
+#Sat Sep 22 16:56:04 CEST 2018
+base.0=/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
