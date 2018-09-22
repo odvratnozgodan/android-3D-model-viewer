@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/menu/model.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/menu/model.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/menu/menu.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/menu/menu.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_text.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_text.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_demo_item.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_demo_item.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_demo.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_demo.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_menu_item.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_menu_item.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_menu.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/activity_model.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/activity_model.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/layout/dialog_load_model.xml",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/layout/dialog_load_model.xml"
+    }
+]

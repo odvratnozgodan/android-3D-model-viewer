@@ -1,17 +1,18 @@
 package org.andresoviedo.app.model3D.services;
 
 import android.annotation.SuppressLint;
+import android.app.Activity;
 import android.app.ProgressDialog;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.util.Log;
 import android.widget.Toast;
-
-import org.andresoviedo.app.model3D.model.Object3DBuilder;
-import org.andresoviedo.app.model3D.model.Object3DData;
 import org.andresoviedo.app.model3D.view.ModelActivity;
-import org.andresoviedo.app.util.android.ContentUtils;
-import org.andresoviedo.app.util.io.IOUtils;
+import org.andresoviedo.library.model3D.model.Object3DBuilder;
+import org.andresoviedo.library.model3D.model.Object3DData;
+import org.andresoviedo.library.model3D.services.SceneLoader;
+import org.andresoviedo.library.util.android.ContentUtils;
+import org.andresoviedo.library.util.io.IOUtils;
 
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -35,7 +36,7 @@ public class ExampleSceneLoader extends SceneLoader {
 		super.init();
 		new AsyncTask<Void, Void, Void>() {
 
-			ProgressDialog dialog = new ProgressDialog(parent);
+			ProgressDialog dialog = new ProgressDialog(parent.getApplicationContext());
 			List<Exception> errors = new ArrayList<>();
 
 			@Override
@@ -75,8 +76,8 @@ public class ExampleSceneLoader extends SceneLoader {
                     addObject(obj12);
 
                     // Set up ContentUtils so referenced materials and/or textures could be find
-                    ContentUtils.setThreadActivity(parent);
-                    ContentUtils.provideAssets(parent);
+                    ContentUtils.setThreadActivity((Activity)parent);
+                    ContentUtils.provideAssets((Activity)parent);
 
                     // test loading object
                     /*try {

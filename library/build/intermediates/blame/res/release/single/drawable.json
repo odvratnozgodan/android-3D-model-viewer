@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable/ic_launcher.png",
+        "source": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable/notification_bg_low.xml"
+    }
+]

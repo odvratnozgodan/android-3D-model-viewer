@@ -15,8 +15,10 @@ import android.view.View;
 import android.widget.Toast;
 
 import org.andresoviedo.app.model3D.services.ExampleSceneLoader;
-import org.andresoviedo.app.model3D.services.SceneLoader;
-import org.andresoviedo.app.util.android.ContentUtils;
+import org.andresoviedo.library.model3D.services.SceneLoader;
+import org.andresoviedo.library.model3D.view.IModelActivity;
+import org.andresoviedo.library.model3D.view.ModelSurfaceView;
+import org.andresoviedo.library.util.android.ContentUtils;
 import org.andresoviedo.dddmodel2.R;
 
 import java.io.IOException;
@@ -26,7 +28,7 @@ import java.io.IOException;
  *
  * @author andresoviedo
  */
-public class ModelActivity extends Activity {
+public class ModelActivity extends Activity implements IModelActivity {
 
     private static final int REQUEST_CODE_LOAD_TEXTURE = 1000;
 

@@ -6,6 +6,9 @@ android {
     defaultConfig {
         minSdkVersion 8
         targetSdkVersion 27
+        versionCode 1
+        versionName "0.0.1"
+        setProperty("archivesBaseName", "Android-3D-Model-Viewer-$versionName")
     }
 
     signingConfigs {
@@ -21,7 +24,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
-            signingConfig signingConfigs.release
+//            signingConfig signingConfigs.release
         }
     }
     compileOptions {

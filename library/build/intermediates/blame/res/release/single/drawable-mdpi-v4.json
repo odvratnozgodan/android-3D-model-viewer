@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/brunoblazinc/Documents/Development/android-3D-model-viewer/library/build/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/brunoblazinc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d56b06449b4add0bfc70fba79ed36cbc/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]
